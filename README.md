@@ -1,3 +1,7 @@
+Team members: Kairat Kypchakbaev, Azizhan Sydykov.
+
+<img width="503" alt="mainPage" src="https://user-images.githubusercontent.com/65094315/103105308-2615e400-4657-11eb-950b-be681cbe01ee.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,6 +70,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-<img width="503" alt="mainPage" src="https://user-images.githubusercontent.com/65094315/103105308-2615e400-4657-11eb-950b-be681cbe01ee.png">
-
